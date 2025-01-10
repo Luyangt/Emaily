@@ -1,5 +1,3 @@
-# Build files
-client/build/
 .idea/
 node_modules/
 config/dev.js
